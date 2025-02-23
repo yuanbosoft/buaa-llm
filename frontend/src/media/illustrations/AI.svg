@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234" height="204" viewBox="0 0 234 204">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 300px;
+        fill: #0890f9;
+        text-anchor: middle;
+        font-family: SimHei;
+      }
+    </style>
+  </defs>
+  <text id="AI" class="cls-1" x="146.5" y="208.5"><tspan x="146.5">AI</tspan></text>
+</svg>

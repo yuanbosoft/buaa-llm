@@ -16,7 +16,7 @@
   <a href="https://github.com/yuanbosoft/buaa-llm/blob/master/LICENSE" target="_blank">
       <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=white" alt="许可证">
   </a> |
-  <a href="https://docs.anythingllm.com" target="_blank">
+  <a href="https://deepbpa.readthedocs.io" target="_blank">
     文档
   </a> |
   <a href="https://my.mintplexlabs.com/aio-checkout?product=anythingllm" target="_blank">

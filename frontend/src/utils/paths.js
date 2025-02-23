@@ -40,7 +40,7 @@ export default {
     return "https://discord.com/invite/6UyHPeGZAC";
   },
   docs: () => {
-    return "https://docs.anythingllm.com";
+    return "https://deepbpa.readthedocs.io";
   },
   mailToMintplex: () => {
     return "mailto:team@mintplexlabs.com";

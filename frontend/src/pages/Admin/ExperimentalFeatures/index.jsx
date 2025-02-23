@@ -249,7 +249,7 @@ function FeatureVerification({ children }) {
                       href="https://deepbpa.readthedocs.io/beta-preview/overview"
                       className="underline text-blue-500"
                     >
-                      docs.anythingllm.com
+                      deepbpa.readthedocs.io
                     </a>{" "}
                     or email{" "}
                     <a
