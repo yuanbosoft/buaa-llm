@@ -66,7 +66,7 @@ export default function LiveSyncToggle({ enabled = false, onToggle }) {
         <ul className="space-y-2">
           <li>
             <a
-              href="https://docs.anythingllm.com/beta-preview/active-features/live-document-sync"
+              href="https://deepbpa.readthedocs.io/beta-preview/active-features/live-document-sync"
               target="_blank"
               className="text-sm text-blue-400 light:text-blue-500 hover:underline flex items-center gap-x-1"
             >

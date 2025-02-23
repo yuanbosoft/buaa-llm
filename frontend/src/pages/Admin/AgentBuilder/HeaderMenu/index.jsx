@@ -118,7 +118,7 @@ export default function HeaderMenu({
             </button>
           </div>
           <Link
-            to="https://docs.anythingllm.com/agent-flows/overview"
+            to="https://deepbpa.readthedocs.io/agent-flows/overview"
             className="text-theme-text-secondary text-sm hover:underline hover:text-cta-button flex items-center gap-x-1 w-fit float-right"
           >
             view documentation &rarr;

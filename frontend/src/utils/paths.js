@@ -34,7 +34,7 @@ export default {
     },
   },
   github: () => {
-    return "https://github.com/Mintplex-Labs/anything-llm";
+    return "https://github.com/yuanbosoft/buaa-llm";
   },
   discord: () => {
     return "https://discord.com/invite/6UyHPeGZAC";
@@ -175,7 +175,7 @@ export default {
       return `${this.website()}/me`;
     },
     noPrivateItems: () => {
-      return "https://docs.anythingllm.com/community-hub/faq#no-private-items";
+      return "https://deepbpa.readthedocs.io/community-hub/faq#no-private-items";
     },
   },
 
